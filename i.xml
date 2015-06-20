@@ -1,11 +1,11 @@
 <xml xmlns="http://www.w3.org/1999/xhtml">
-  <block type="controls_whileUntil" id="33" inline="false" x="-702" y="83">
+  <block type="controls_whileUntil" id="1" inline="false" x="-702" y="83">
     <field name="MODE">WHILE</field>
     <statement name="DO">
-      <block type="led_select" id="42" inline="true">
+      <block type="led_select" id="2" inline="true">
         <field name="ACTION">ON</field>
         <value name="LED">
-          <block type="math_number" id="111">
+          <block type="math_number" id="3">
             <field name="NUM">1</field>
           </block>
         </value>
